@@ -1,0 +1,9 @@
+# Credentials & secrets
+.mcp.json
+.env
+.env.*
+*.env
+
+# OS
+.DS_Store
+Thumbs.db
